@@ -34,4 +34,5 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 THEME = "/data/pelican-themes/elegant"
-DISQUS_SITENAME = "http://zhangze.disqus.com"
+DISQUS_SITENAME = "zhangze"
+DEFAULT_DATE_FORMAT = "%Y-%m-%d"
